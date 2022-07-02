@@ -1,0 +1,7 @@
+RHT_OCP4_MASTER_API=https://api.ap46a.prod.ole.redhat.com:6443
+RHT_OCP4_WILDCARD_DOMAIN=apps.ap46a.prod.ole.redhat.com
+RHT_OCP4_NEXUS_SERVER=nexus-common.apps.ap46a.prod.ole.redhat.com
+RHT_OCP4_DEV_USER=ekwrxn
+RHT_OCP4_DEV_PASSWORD=aebd5506aa2641a0a767
+RHT_OCP4_GITHUB_USER=kukudm
+RHT_OCP4_QUAY_USER=kukudmx
