@@ -1,4 +1,4 @@
-podman login registry.redhat.io -u kukudmx@gmail.com -p agqpyoPP@3979
+podman login registry.redhat.io
 
 podman run --name persist-db \
 -d -v /home/student/local/mysql:/var/lib/mysql/data \

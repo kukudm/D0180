@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-podman login registry.redhat.io -u kukudmx@gmail.com -p agqpyoPP@3979
+podman login registry.redhat.io
 
 podman run --name mysqldb-port \
 -d -v /home/student/local/mysql:/var/lib/mysql/data -p 13306:3306 \

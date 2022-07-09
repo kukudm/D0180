@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-podman login registry.redhat.io -u kukudmx@gmail.com -p agqpyoPP@3979
+podman login registry.redhat.io
 
 podman run --name mysql-1 -p 13306:3306 \
 -d -v /home/student/local/mysql:/var/lib/mysql/data \
